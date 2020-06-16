@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'constants.dart';
+import '../constants.dart';
 
 class IconTextCard extends StatelessWidget {
   IconTextCard({@required this.icon, @required this.text, this.tappedCard});
